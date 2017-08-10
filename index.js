@@ -212,15 +212,15 @@ const SVG_PARTLY_CLOUDY_TRANSFORM = 'transform="translate(20 50)"';
 
 const SVG_RAIN = `
 <g stroke="#1F90CC" stroke-width="2" transform="translate(100 100) rotate(25)">
-		<line x1="0" x2="0" y1="35" y2="60" transform="translate(10 20)"   />
-		<line x1="0" x2="0" y1="35" y2="60" transform="translate(-20 10)"  />
-		<line x1="0" x2="0" y1="35" y2="60" transform="translate(0 0)"     />
-		<line x1="0" x2="0" y1="35" y2="60" transform="translate(30 30)"   />
-		<line x1="0" x2="0" y1="35" y2="60" transform="translate(20 -10)"  />
-		<line x1="0" x2="0" y1="35" y2="60" transform="translate(40 -5)"   />
-		<line x1="0" x2="0" y1="35" y2="60" transform="translate(50 -30)"  />
-		<line x1="0" x2="0" y1="35" y2="60" transform="translate(-40 -10)" />
-		<line x1="0" x2="0" y1="35" y2="60" transform="translate(-30 40)"  />
+	<line x1="0" x2="0" y1="35" y2="60" transform="translate(10 20)"   />
+	<line x1="0" x2="0" y1="35" y2="60" transform="translate(-20 10)"  />
+	<line x1="0" x2="0" y1="35" y2="60" transform="translate(0 0)"     />
+	<line x1="0" x2="0" y1="35" y2="60" transform="translate(30 30)"   />
+	<line x1="0" x2="0" y1="35" y2="60" transform="translate(20 -10)"  />
+	<line x1="0" x2="0" y1="35" y2="60" transform="translate(40 -5)"   />
+	<line x1="0" x2="0" y1="35" y2="60" transform="translate(50 -30)"  />
+	<line x1="0" x2="0" y1="35" y2="60" transform="translate(-40 -10)" />
+	<line x1="0" x2="0" y1="35" y2="60" transform="translate(-30 40)"  />
 </g>
 `;
 
