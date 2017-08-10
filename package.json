@@ -1,0 +1,31 @@
+{
+  "name": "weather-icon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktsashes/weather-icon.git"
+  },
+  "keywords": [
+    "microservice",
+    "webtask"
+  ],
+  "author": "Andrew Hushbeck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ktsashes/weather-icon/issues"
+  },
+  "homepage": "https://github.com/ktsashes/weather-icon#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "proxy-addr": "^2.0.0",
+    "request": "^2.81.0",
+    "webtask-tools": "^3.2.0"
+  }
+}
